@@ -10,6 +10,10 @@ from sklearn.metrics.pairwise import cosine_similarity
 from skills_db import SKILLS_DB
 
 # download resources
+import ssl
+
+ssl._create_default_https_context = ssl._create_unverified_context
+
 nltk.download('punkt')
 nltk.download('punkt_tab')
 nltk.download('stopwords')
