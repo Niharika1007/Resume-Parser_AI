@@ -1,7 +1,7 @@
 # AI Resume Parser & Intelligent Resume Screening System
 
-Live Demo: https://your-app.streamlit.app  
-GitHub: https://github.com/YOUR_USERNAME/Resume-Parser-AI
+Live Demo: https://resume-parserai-sn9rdlrdyfhpphessqbso8.streamlit.app/
+GitHub: https://github.com/Niharika1007/Resume-Parser-AI
 
 ---
 
