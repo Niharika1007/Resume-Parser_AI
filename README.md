@@ -7,14 +7,15 @@ GitHub: https://github.com/Niharika1007/Resume-Parser-AI
 
 ## Project Overview
 
-AI-based Resume Screening and Suggestion System built using Python, NLP, and Machine Learning.
+An AI-powered Resume Screening and Suggestion System built using Python, NLP, and Machine Learning.
 
-This application analyzes **one candidate resume at a time** against a given job description and provides:
+The system evaluates **individual candidate resumes** against a given job description and provides:
 - Resume match score (0–10)
-- Missing skills analysis
+- Skill gap analysis
 - Experience gap detection
 - Personalized recommendations for resume improvement
 
+It supports **any candidate**, **any job role**, and **any experience level**.
 ---
 
 ## Features
@@ -102,3 +103,18 @@ Suggestions Output
 ```bash
 pip install -r requirements.txt
 streamlit run src/app.py
+
+---
+
+## Future Enhancements
+
+- Multi-resume ranking dashboard
+- Recruiter panel
+- Downloadable reports
+- Semantic matching using BERT
+
+---
+
+## Author
+
+Niharika
